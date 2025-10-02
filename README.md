@@ -1,2 +1,3 @@
 # L298-Motor-Driver
-Schematic and pcb for L298 motor driver.
+This includes schematics and pcb for l298 motor driver designed on EasyEda pro.
+
